@@ -1,0 +1,2 @@
+# JellyCard
+created a application with following functionality :-Home (Inside home page there will be two tabs) Photos (Fetch all the photos from API display in a list and after clicking on a photo it should open in Native Image Viewer would display the enlarged photo Posts (Fetch all the posts from API display in a list and on click of a post-call detail API and display all the details in dialog)
